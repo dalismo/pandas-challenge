@@ -20,13 +20,13 @@ Picked Heroes of Pymoli mainly due to the fact that I love video games.
 
 ## Option 1: Heroes of Pymoli
 
-![Fantasy](Images/Fantasy.png)
+![image](https://user-images.githubusercontent.com/78628287/116742890-0f491a80-a9c6-11eb-87c1-4da1340a1cea.png)
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-My final report should include each of the following:
+My final report includes each of the following:
 
 ### Player Count
 
@@ -87,3 +87,5 @@ My final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
+### Analysis Report
+Baseed on my results I came up with 3 observable trends in the data. Please see file titled "Analysis.txt"
